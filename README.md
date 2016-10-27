@@ -22,7 +22,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 - Redux
 - React JS
 - Bootstrap
-- React Sparklines
+- React-Sparklines
+- React-Google-Maps
 - OpenWeatherMap API
 - Google Maps API
 ```
