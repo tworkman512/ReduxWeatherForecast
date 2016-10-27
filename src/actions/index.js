@@ -9,7 +9,7 @@ export const FETCH_WEATHER = 'FETCH_WEATHER';
 export function fetchWeather(city) {
   // If you wanted users to be able to search in other countries
   // you would need to add in the country code vs. us as we have below.
-  const url = `${ROOT_URL}&q=${city},us`;
+  const url = `${ROOT_URL}&units=imperial&q=${city},us`;
   const request = axios.get(url);
 
   return {
