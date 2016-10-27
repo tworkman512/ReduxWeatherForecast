@@ -13,3 +13,16 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm start
 	> head over to localhost:8080 to view in your browser
 ```
+
+
+###The Tech Stack###
+
+```
+- Node JS
+- Redux
+- React JS
+- Bootstrap
+- React Sparklines
+- OpenWeatherMap API
+- Google Maps API
+```
