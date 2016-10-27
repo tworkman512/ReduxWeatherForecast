@@ -1,3 +1,5 @@
+![Image of Redux Weather Forecast App](https://github.com/tworkman512/ReduxWeatherForecast/blob/master/src/images/weather-forecast.png?raw=true)
+
 # ReduxWeatherForecast
 
 ###Getting Started###
